@@ -1,0 +1,28 @@
+h1 {
+    background: red; }
+    
+    .par-1
+    {
+    font-size: 14pt;
+    color: red;
+    }
+    
+    .par-2
+    {
+    border: 10px solid yellow;
+    border-radius: 5%;
+    }
+    
+    div
+    {
+    font-family: Arial;
+    font-weight: bold;
+    }
+
+    .par-3 {
+            font-size: 24px;
+            font-style: italic;
+            text-align: center;
+            color: green;
+            text-shadow: 2px 2px 4px #00FF00;
+        }
